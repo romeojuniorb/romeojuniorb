@@ -1,16 +1,23 @@
-## Hi there 👋
+Hello, I’m Romeo 👋  
+Data Analyst with experience in data analysis, predictive modeling, and visualization.  
 
-<!--
-**romeojuniorb/romeojuniorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**  
+- Bachelor’s degree, Wilfrid Laurier University  
 
-Here are some ideas to get you started:
+💡 **What I Do**  
+- Querying and analyzing data using SQL and Python  
+- Building predictive models and performing exploratory data analysis  
+- Developing interactive dashboards in Tableau and Looker Studio  
+- Data cleaning, reporting, and visualization using Excel and Google Sheets  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Projects**  
+Welcome to my portfolio, where I showcase my projects. You can also see my development and portfolio structure guide at [Portfolio-Guide](https://github.com/romeojuniorb/Portfolio-Guide)  
+
+🛠️ **Tools**  
+- **Languages:** Python, SQL  
+- **Databases:** PostgreSQL, MySQL, BigQuery  
+- **Visualization:** Tableau, Looker Studio, Matplotlib, Seaborn  
+
+👋 **Connect with Me**  
+- [LinkedIn](https://www.linkedin.com/in/romeojb/)  
+- 📧 Email: romeobarbietojr@gmail.com  
