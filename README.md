@@ -1,5 +1,6 @@
-Hello, I’m Romeo 👋  
-Data Analyst with experience in data analysis, predictive modeling, and visualization.  
+![Romeo Junior Barbieto](Romeo%20Junior%20Barbieto.png)
+
+Computer Science student, constantly learning and building skills in data analysis and reporting, query optimization, database design, and data modeling
 
 🎓 **Education**  
 - Bachelor’s degree, Wilfrid Laurier University  
