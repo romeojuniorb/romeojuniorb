@@ -1,4 +1,4 @@
-![Romeo Junior Barbieto](Romeo%20Junior%20Barbieto.png)
+<img src="Romeo%20Junior%20Barbieto.png" alt="Romeo Junior Barbieto" width="800"/>
 
 Computer Science student, constantly learning and building skills in data analysis and reporting, query optimization, database design, and data modeling
 
